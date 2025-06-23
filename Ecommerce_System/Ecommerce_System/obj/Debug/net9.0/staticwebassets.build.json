@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "nMtDfmZYyJi6jNm3YN8kDwrRGeZfahziTNXspCgLoEI=",
+  "Source": "Ecommerce_System",
+  "BasePath": "_content/Ecommerce_System",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ecommerce_System\\wwwroot",
+      "Source": "Ecommerce_System",
+      "ContentRoot": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\wwwroot\\",
+      "BasePath": "_content/Ecommerce_System",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\wwwroot\\uploads\\5e207956-015a-43b6-8025-3c12945a0fe5.jpg",
+      "SourceId": "Ecommerce_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\wwwroot\\",
+      "BasePath": "_content/Ecommerce_System",
+      "RelativePath": "uploads/5e207956-015a-43b6-8025-3c12945a0fe5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7m9fk4f6zi",
+      "Integrity": "b3K4G56AoNhVmSy9VTCJu+rQz6iX3PpI1BMVbmF60Ac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5e207956-015a-43b6-8025-3c12945a0fe5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\wwwroot\\uploads\\93134b39-83f9-425c-9b87-912e8ab57be7.jpg",
+      "SourceId": "Ecommerce_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\wwwroot\\",
+      "BasePath": "_content/Ecommerce_System",
+      "RelativePath": "uploads/93134b39-83f9-425c-9b87-912e8ab57be7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7m9fk4f6zi",
+      "Integrity": "b3K4G56AoNhVmSy9VTCJu+rQz6iX3PpI1BMVbmF60Ac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\93134b39-83f9-425c-9b87-912e8ab57be7.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/5e207956-015a-43b6-8025-3c12945a0fe5.7m9fk4f6zi.jpg",
+      "AssetFile": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\wwwroot\\uploads\\5e207956-015a-43b6-8025-3c12945a0fe5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b3K4G56AoNhVmSy9VTCJu+rQz6iX3PpI1BMVbmF60Ac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 22:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7m9fk4f6zi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5e207956-015a-43b6-8025-3c12945a0fe5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b3K4G56AoNhVmSy9VTCJu+rQz6iX3PpI1BMVbmF60Ac="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5e207956-015a-43b6-8025-3c12945a0fe5.jpg",
+      "AssetFile": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\wwwroot\\uploads\\5e207956-015a-43b6-8025-3c12945a0fe5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b3K4G56AoNhVmSy9VTCJu+rQz6iX3PpI1BMVbmF60Ac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 22:14:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b3K4G56AoNhVmSy9VTCJu+rQz6iX3PpI1BMVbmF60Ac="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/93134b39-83f9-425c-9b87-912e8ab57be7.7m9fk4f6zi.jpg",
+      "AssetFile": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\wwwroot\\uploads\\93134b39-83f9-425c-9b87-912e8ab57be7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b3K4G56AoNhVmSy9VTCJu+rQz6iX3PpI1BMVbmF60Ac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 22:04:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7m9fk4f6zi"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/93134b39-83f9-425c-9b87-912e8ab57be7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b3K4G56AoNhVmSy9VTCJu+rQz6iX3PpI1BMVbmF60Ac="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/93134b39-83f9-425c-9b87-912e8ab57be7.jpg",
+      "AssetFile": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\wwwroot\\uploads\\93134b39-83f9-425c-9b87-912e8ab57be7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b3K4G56AoNhVmSy9VTCJu+rQz6iX3PpI1BMVbmF60Ac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Jun 2025 22:04:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b3K4G56AoNhVmSy9VTCJu+rQz6iX3PpI1BMVbmF60Ac="
+        }
+      ]
+    }
+  ]
+}

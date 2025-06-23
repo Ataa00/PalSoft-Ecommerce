@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E99C53-96B8-482C-A3F4-9EBDD976A0F9}|Ecommerce_System\\Ecommerce_System.csproj|c:\\users\\ataas\\workspace\\web\\palsoft\\new\\ecommerce_system\\ecommerce_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E99C53-96B8-482C-A3F4-9EBDD976A0F9}|Ecommerce_System\\Ecommerce_System.csproj|solutionrelative:ecommerce_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E99C53-96B8-482C-A3F4-9EBDD976A0F9}|Ecommerce_System\\Ecommerce_System.csproj|c:\\users\\ataas\\workspace\\web\\palsoft\\new\\ecommerce_system\\ecommerce_system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E99C53-96B8-482C-A3F4-9EBDD976A0F9}|Ecommerce_System\\Ecommerce_System.csproj|solutionrelative:ecommerce_system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E99C53-96B8-482C-A3F4-9EBDD976A0F9}|Ecommerce_System\\Ecommerce_System.csproj|c:\\users\\ataas\\workspace\\web\\palsoft\\new\\ecommerce_system\\ecommerce_system\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E99C53-96B8-482C-A3F4-9EBDD976A0F9}|Ecommerce_System\\Ecommerce_System.csproj|solutionrelative:ecommerce_system\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E99C53-96B8-482C-A3F4-9EBDD976A0F9}|Ecommerce_System\\Ecommerce_System.csproj|c:\\users\\ataas\\workspace\\web\\palsoft\\new\\ecommerce_system\\ecommerce_system\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E99C53-96B8-482C-A3F4-9EBDD976A0F9}|Ecommerce_System\\Ecommerce_System.csproj|solutionrelative:ecommerce_system\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Ecommerce_System\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "Ecommerce_System\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:07:08.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Ecommerce_System\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Ecommerce_System\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAiwDwAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:45:20.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce_System\\Program.cs",
+              "ToolTip": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\Program.cs",
+              "RelativeToolTip": "Ecommerce_System\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:12:41.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce_System\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Ecommerce_System\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:11:56.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

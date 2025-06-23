@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\wwwroot\\uploads\\5e207956-015a-43b6-8025-3c12945a0fe5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5e207956-015a-43b6-8025-3c12945a0fe5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ataas\\Workspace\\Web\\PalSoft\\New\\Ecommerce_System\\Ecommerce_System\\wwwroot\\uploads\\93134b39-83f9-425c-9b87-912e8ab57be7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\93134b39-83f9-425c-9b87-912e8ab57be7.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Ecommerce_System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Ecommerce_System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Ecommerce_System.props",
+      "PackagePath": "build\\Ecommerce_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce_System.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Ecommerce_System.props",
+      "PackagePath": "buildTransitive\\Ecommerce_System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
